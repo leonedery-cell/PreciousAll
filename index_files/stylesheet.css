@@ -82,6 +82,14 @@ a:visited
 	text-decoration:none;
 	font-family:Calibri, sans-serif;
 	mso-font-charset:0;}
+.font33
+	{color:black;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
 .font42
 	{color:white;
 	font-size:9.0pt;
@@ -89,6 +97,14 @@ a:visited
 	font-style:normal;
 	text-decoration:none;
 	font-family:"Arial Nova", sans-serif;
+	mso-font-charset:0;}
+.font44
+	{color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
 	mso-font-charset:0;}
 .font58
 	{color:black;
@@ -5008,6 +5024,7 @@ td
 	mso-pattern:black none;}
 .xl525
 	{mso-style-parent:style0;
+	color:#C00000;
 	font-weight:700;
 	text-align:left;
 	vertical-align:middle;
